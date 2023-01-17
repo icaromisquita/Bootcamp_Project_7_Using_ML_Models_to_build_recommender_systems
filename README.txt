@@ -7,7 +7,7 @@ This project is a part of the [DataScience Bootcamp](https://www.wbscodingschool
 🔸 Project Intro/Objective
 
 Collection of different recommender systems packaged in a streamlit app.
-The purpose of this project is to learn about different recommender systems and how to deploy python code in a webapp via streamlit.
+The purpose of this project is to learn about different recommender systems and how to deploy python code in a web-app via streamlit.
 
 🔹 Methods Used
 Popularity-based recommendations
