@@ -1,4 +1,4 @@
-This project is a part of the [DataScience Bootcamp](https://www.wbscodingschool.com/data-science-bootcamp/) at [WBS Coding School](https://www.wbscodingschool.com/). Other datascience projects can be found at the main GitHub repo.</br>
+This project is a part of the [DataScience Bootcamp](https://www.wbscodingschool.com/data-science-bootcamp/) at [WBS Coding School](https://www.wbscodingschool.com/). Other datascience projects can be found at the main GitHub repo.
 
 ⚙ WBS Project 7 - Recommenders System
 
@@ -11,9 +11,9 @@ The purpose of this project is to learn about different recommender systems and 
 
 🔹 Methods Used
 
-* Popularity-based recommendations
-* User-based recommendations
-* Item-based recommendations
+  * Popularity-based recommendations
+  * User-based recommendations
+  * Item-based recommendations
 
 🔹 Technologies
    * Python
