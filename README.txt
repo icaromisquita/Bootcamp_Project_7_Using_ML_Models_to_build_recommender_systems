@@ -10,19 +10,19 @@ Collection of different recommender systems packaged in a streamlit app.
 The purpose of this project is to learn about different recommender systems and how to deploy python code in a web-app via streamlit.
 
 🔹 Methods Used
-Popularity-based recommendations
-User-based recommendations
-Item-based recommendations
+   * Popularity-based recommendations
+   * User-based recommendations
+   * Item-based recommendations
 
 🔹 Technologies
-* Python
-    * Pandas
-    * Jupyter Notebook
-    * Requests (API)
-    * Matplotlib
-  * Scikit Learn
-  * Streamlit
-  * API
+   * Python
+       * Pandas
+       * Jupyter Notebook
+       * Requests (API)
+       * Matplotlib
+     * Scikit Learn
+     * Streamlit
+     * API
 
 🔸 Project Description
 The data used was provided by WBS-Coding School.
