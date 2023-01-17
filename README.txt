@@ -1,4 +1,4 @@
-This project is a part of the [DataScience Bootcamp](https://www.wbscodingschool.com/data-science-bootcamp/) at [WBS Coding School](https://www.wbscodingschool.com/). Other datascience projects can be found at the main GitHub repo.
+This project is a part of the [DataScience Bootcamp](https://www.wbscodingschool.com/data-science-bootcamp/) at [WBS Coding School](https://www.wbscodingschool.com/). Other data science projects can be found at the main GitHub repo.
 
 ⚙ WBS Project 7 - Recommenders System
 
@@ -10,7 +10,6 @@ Collection of different recommender systems packaged in a streamlit app.
 The purpose of this project is to learn about different recommender systems and how to deploy python code in a web-app via streamlit.
 
 🔹 Methods Used
-
   * Popularity-based recommendations
   * User-based recommendations
   * Item-based recommendations
@@ -30,5 +29,5 @@ The data used was provided by WBS-Coding School.
 
 🔸 Main goals of the project:
 
-* Build different recommender-systems.
-* Deploy said recommender-systems on a web-app using Streamlit.
+ * Build different recommender-systems.
+ * Deploy said recommender-systems on a web-app using Streamlit.
